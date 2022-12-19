@@ -1,0 +1,49 @@
+.row{
+    display: flex;
+}
+.col{
+    height: 100px;
+    width: 300px;
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: #63f9c7;
+}
+.row1{
+    display: flex;
+}
+.col-1{ 
+    height: 100px;
+    width: 200px;
+    background-color: peru;
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+}
+.col-2{
+    height: 100px;
+    width: 200px;
+    background-color: peru;
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+}
+.row2{
+    display: flex;
+}
+.col2{
+    height: 100px;
+    width: 200px;
+    background-color: olive;
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+}
+.col3{
+    height: 100px;
+    width: 200px;
+    background-color: olive;
+    flex: 3;
+    padding: 20px;
+    margin: 10px;
+}
